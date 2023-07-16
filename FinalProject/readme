@@ -1,16 +1,18 @@
-The first data set comes from Food and Safety Agency. 
+I am delighted to present a comprehensive report that delves into the critical realm of food safety and its impact on public health. 
+This project entails an in-depth analysis of local authorities' efforts in England, Wales, and Northern Ireland to ensure establishments comply with hygiene and food safety laws. 
+The key focus lies in understanding the outcomes of intervention actions and their effectiveness in maintaining public well-being.
 
-The data provided contains one row for each local authority in England, Wales and Northern Ireland. Establishments within each local authority are rated for their potential impact on public
-health (essentially a measure of how many people could they cause sickness to, and how seriously, if they serve bad food). 
-These ratings are letter grades from A – meaning the greatest potential impact – to E – the lowest potential impact upon public health. 
-They are then inspected to check whether they are compliant with hygiene and food safety laws. 
-If they fail to meet the level of “broadly compliant” with these laws then the local authority gives them an intervention. 
-This requires them to make changes and fix the problems so that they become compliant with the law. If the establishment achieves the requirements of the intervention then they are permitted to continue operating.
+The provided dataset encompasses valuable information, featuring one row for each local authority and the respective establishments within. 
+These establishments have been rated based on their potential impact on public health, using letter grades ranging from A to E. 
+These ratings signify the extent to which they may pose a risk to public health if they fail to adhere to proper food safety standards.
 
-I investigated whether establishments successfully respond to intervention actions. I also created my own measure of how many food safety employees FSA should employ to achieve high succesful intervention rate.
+The primary objective of the project is twofold:
 
+1. Distribution Analysis: I have curated informative plots that illustrate the distribution of successful enforcement actions across the Local Authorities (LAs). 
+I provide two distinct versions—one combining all impact levels and another segregating the distributions for establishments rated A, B, C, D, and E. 
+These visuals offer a clear perspective on the effectiveness of intervention actions in mitigating potential health risks associated with different establishment categories.
 
-Second dataset comes from publishing company. The management would like to understand several factors that contribute to the book sales. 
-The data provided contains information on e-book sales over a period of many months. 
-Each row in the data represents one book. 
-The values of the variables are taken across the entire time period, so daily.sales is the average number of sales (minus refunds) across all days in the period, and sale.price is the average price for which the book sold across all sales in the period.
+2. Investigating Relationships: I have thoroughly examined whether an increase in professional enforcement officers influences the likelihood of establishments successfully responding to enforcement actions. 
+This exploration involved studying the correlation between the proportion of successful responses and the number of FTE (Full-Time Equivalent) food safety employees in each local authority. 
+Additionally, I have explored the relationship between the proportion of successful responses and the number of employees in proportion to the total number of establishments in the local authority. 
+This bespoke measure provides insights into the concentration of food safety employees per establishment, offering valuable insights for policymakers and managers.
