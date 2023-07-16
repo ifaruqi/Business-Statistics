@@ -1,6 +1,16 @@
-The data comes from Food and Safety Agency.
+The first data set comes from Food and Safety Agency. 
+
+The data provided contains one row for each local authority in England, Wales and Northern Ireland. Establishments within each local authority are rated for their potential impact on public
+health (essentially a measure of how many people could they cause sickness to, and how seriously, if they serve bad food). 
+These ratings are letter grades from A – meaning the greatest potential impact – to E – the lowest potential impact upon public health. 
+They are then inspected to check whether they are compliant with hygiene and food safety laws. 
+If they fail to meet the level of “broadly compliant” with these laws then the local authority gives them an intervention. 
+This requires them to make changes and fix the problems so that they become compliant with the law. If the establishment achieves the requirements of the intervention then they are permitted to continue operating.
 
 I investigated whether establishments successfully respond to intervention actions. I also created my own measure of how many food safety employees FSA should employ to achieve high succesful intervention rate.
 
 
-Second dataset comes from publishing company. The management would like to understand several factors that contribute to the book sales.
+Second dataset comes from publishing company. The management would like to understand several factors that contribute to the book sales. 
+The data provided contains information on e-book sales over a period of many months. 
+Each row in the data represents one book. 
+The values of the variables are taken across the entire time period, so daily.sales is the average number of sales (minus refunds) across all days in the period, and sale.price is the average price for which the book sold across all sales in the period.
