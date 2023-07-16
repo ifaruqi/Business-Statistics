@@ -1,6 +1,0 @@
-This data comes from the London Fire Brigade. 
-
-A panel of Fire service managers and local politicians want to better understand some particular aspects of the costs and response times 
-associated with incidents during the time period in the data.
-
-The specific request is addressed in R and written in Rmarkdown file. Finally, the report is knitted to HTML file.
